@@ -16,4 +16,5 @@ const Control = (props) => {
         </div>
     )
 };
+
 export default Control;
