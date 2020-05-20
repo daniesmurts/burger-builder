@@ -24,3 +24,9 @@
     border: #944317 1px solid;
     
 }
+
+.Button:disabled {
+    color: #ccc;
+    border: #944317 1px solid;
+    cursor: not-allowed;
+}
